@@ -7,3 +7,6 @@ Linguagens de programação
 # Aprendendo Java
 
 # Vai Corinthians!
+
+# Programador
+- Samuel Guimarães Pereira
