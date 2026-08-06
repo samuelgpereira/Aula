@@ -1,7 +1,7 @@
-#Aprendendo Github
+# Aprendendo Github
 Faculdade de Tecnologia de Tatuí
 
-#Disciplina
+# Disciplina
 Linguagens de programação
 
 # Aprendendo Java
