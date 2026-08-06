@@ -10,3 +10,5 @@ Linguagens de programação
 
 # Programador
 - Samuel Guimarães Pereira
+
+Repetição até a exaustão, com correção leva a perfeição
